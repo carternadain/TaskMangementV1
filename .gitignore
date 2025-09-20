@@ -2,3 +2,21 @@
 .nx/installation
 .nx/cache
 .nx/workspace-data
+.angular
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+out/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
