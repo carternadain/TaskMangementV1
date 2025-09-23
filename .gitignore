@@ -20,3 +20,8 @@ out/
 # IDEs
 .vscode/
 .idea/
+
+/generated/prisma
+
+node_modules/
+dist/

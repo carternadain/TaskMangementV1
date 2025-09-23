@@ -2,6 +2,11 @@
   "installation": {
     "version": "21.5.3"
   },
+  "projects": {
+    "api": "apps/api",
+    "frontend": "apps/frontend",
+    "shared-models": "libs/shared-models"
+  },
   "targetDefaults": {
     "@angular-devkit/build-angular:browser": {
       "cache": true,
